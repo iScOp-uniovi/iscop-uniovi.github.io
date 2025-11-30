@@ -32,4 +32,4 @@ permalink: /projects/
     * *Period:* 2018 - 2020
 
 ---
-[🔙 Back to Home](./)
+[🔙 Back to Home](/)
