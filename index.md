@@ -4,9 +4,13 @@ layout: default
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-bottom: 30px; flex-wrap: wrap;">
   
-  <img src="Emblema Universidad de Oviedo Vertical Color.png" alt="Universidad de Oviedo" style="height: 120px; width: auto;">
+  <a href="https://www.uniovi.es" target="_blank" title="Universidad de Oviedo Website">
+    <img src="Emblema Universidad de Oviedo Vertical Color.png" alt="Universidad de Oviedo" style="height: 120px; width: auto;">
+  </a>
 
-  <img src="aic_logo.png" alt="Artificial Intelligence Center" style="height: 90px; width: auto;">
+  <a href="https://www.aic.uniovi.es/" target="_blank" title="Artificial Intelligence Center Website">
+    <img src="aic_logo.png" alt="Artificial Intelligence Center" style="height: 72px; width: auto;">
+  </a>
 
 </div>
 
@@ -35,3 +39,12 @@ This is precisely the value we intend to incorporate into our applications throu
   </a>
 
   <a href="https://github.com/iScOp-uniovi" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    💻 Software & Resources
+  </a>
+
+</div>
+
+<br>
+
+---
+<small>Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
