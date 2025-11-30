@@ -17,4 +17,4 @@ permalink: /transfer/
 | **ITCL** | Intelligent management system for electric vehicle charging stations. | 2013 |
 
 ---
-[🔙 Back to Home](./)
+[🔙 Back to Home](/)
