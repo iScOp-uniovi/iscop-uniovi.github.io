@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# iScOp: Intelligent Scheduling and Optimization Research Group
-### University of Oviedo
-
 Welcome to the website and data repository of the **iScOp** group. We focus on solving complex optimization and scheduling problems using Artificial Intelligence techniques.
 
 Our main research lines include **Metaheuristics**, **Constraint Programming**, and planning under uncertainty applied to Industry 4.0, logistics, and sustainability.
