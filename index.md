@@ -22,11 +22,11 @@ This is precisely the value we intend to incorporate into our applications throu
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/detalle" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/detalle?lang=en" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
     👥 Members
   </a>
 
-  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/publicaciones" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/publicaciones?lang=en" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
     📚 Publications
   </a>
 
