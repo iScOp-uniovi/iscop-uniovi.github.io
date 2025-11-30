@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use the materials or data from this repository, please cite it as below."
+title: "iScOp - Intelligent Scheduling and Optimization Group Website and Resources"
+authors:
+  - name: "iScOp Research Group"
+    affiliation: "University of Oviedo"
+  - family-names: "Rodríguez Vela"
+    given-names: "Camino"
+    orcid: "https://orcid.org/0000-0001-9040-6927"
+    affiliation: "University of Oviedo"
+url: "https://iscop-uniovi.github.io"
+repository-code: "https://github.com/iScOp-uniovi/iscop-uniovi.github.io"
+license: CC-BY-4.0
+keywords:
+  - scheduling
+  - optimization
+  - artificial intelligence
+  - university of oviedo
+date-released: 2025-11-30
