@@ -1,0 +1,26 @@
+---
+---
+
+/* Importamos el diseño original del tema que hayamos elegido (Cayman, Minimal, etc) */
+@import "{{ site.theme }}";
+
+/* Definimos nuestro color azul corporativo */
+$uniovi-blue: #00457c;
+
+/* SOBRESCRIBIMOS los colores del tema */
+
+/* Cambiar el color de todos los títulos (H1, H2, etc.) a azul */
+h1, h2, h3, h4, h5, h6 {
+  color: $uniovi-blue !important;
+}
+
+/* Cambiar el color de los enlaces a azul */
+a {
+  color: $uniovi-blue !important;
+}
+
+/* (Opcional) Si usas el tema Cayman, el botón de arriba también debe cambiar */
+.page-header {
+  background-color: $uniovi-blue !important;
+  background-image: linear-gradient(120deg, $uniovi-blue, darken($uniovi-blue, 15%)) !important;
+}
