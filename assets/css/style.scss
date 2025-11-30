@@ -1,26 +1,51 @@
 ---
 ---
 
-/* Importamos el diseño original del tema que hayamos elegido (Cayman, Minimal, etc) */
 @import "{{ site.theme }}";
 
-/* Definimos nuestro color azul corporativo */
+/* Color Corporativo Uniovi */
 $uniovi-blue: #00457c;
 
-/* SOBRESCRIBIMOS los colores del tema */
-
-/* Cambiar el color de todos los títulos (H1, H2, etc.) a azul */
-h1, h2, h3, h4, h5, h6 {
-  color: $uniovi-blue !important;
-}
-
-/* Cambiar el color de los enlaces a azul */
-a {
-  color: $uniovi-blue !important;
-}
-
-/* (Opcional) Si usas el tema Cayman, el botón de arriba también debe cambiar */
+/* 1. CABECERA (Fondo azul, Texto BLANCO) */
 .page-header {
   background-color: $uniovi-blue !important;
-  background-image: linear-gradient(120deg, $uniovi-blue, darken($uniovi-blue, 15%)) !important;
+  background-image: linear-gradient(120deg, $uniovi-blue, darken($uniovi-blue, 10%)) !important;
+}
+
+.project-name, .project-tagline {
+  color: #ffffff !important; /* Forzamos blanco en la cabecera */
+}
+
+/* 2. CUERPO (Fondo blanco, Texto AZUL) */
+.main-content h1, .main-content h2, .main-content h3 {
+  color: $uniovi-blue !important; /* Azul solo en el contenido */
+}
+
+.main-content a {
+  color: $uniovi-blue !important;
+}
+
+/* Ajuste para que el logo y el título convivan bien en la cabecera */
+.project-name {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 0;
+}
+
+.logo-header {
+  height: 80px; /* Tamaño del logo */
+  width: auto;
+  vertical-align: middle;
+  margin-right: 20px;
+  background-color: white; /* Recuadro blanco para que resalte el logo */
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* Ajuste móvil */
+@media screen and (max-width: 42em) {
+  .logo-header {
+    display: block;
+    margin: 0 auto 10px auto; /* Centrar logo en móvil */
+  }
 }
