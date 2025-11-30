@@ -2,30 +2,37 @@
 layout: default
 ---
 
-Welcome to the website and data repository of the **iScOp** group. We focus on solving complex optimization and scheduling problems using Artificial Intelligence techniques.
+The main focus of this research group is developing software solutions to complex problems such as business scheduling and resource optimization. Problems of this nature appear in profusion in all productive sectors and its solution usually requires a high degree of expertise and specific knowledge.
 
-Our main research lines include **Metaheuristics**, **Constraint Programming**, and planning under uncertainty applied to Industry 4.0, logistics, and sustainability.
+This is precisely the value we intend to incorporate into our applications through the combined use of various techniques for computing and artificial intelligence.
 
-### Explore our work:
+<br>
 
-<a href="./projects/" class="btn">🔬 Research Projects</a>
-<a href="./transfer/" class="btn">🏭 Technology Transfer</a>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-<br><br>
+  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/detalle" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    👥 Members
+  </a>
 
----
+  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/publicaciones" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    📚 Publications
+  </a>
 
-## 👥 Team & Publications
-For the updated list of researchers, PhD theses, and full scientific production (papers), please visit our official institutional profile:
+  <a href="./projects/" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    🔬 Research Projects
+  </a>
 
-👉 **[University of Oviedo Research Portal - iScOp Group](https://portalinvestigacion.uniovi.es/grupos/14092/detalle)**
+  <a href="./transfer/" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    🏭 Technology Transfer
+  </a>
 
----
+  <a href="https://github.com/iScOp-uniovi" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+    💻 Software & Resources
+  </a>
 
-## 📂 Resources & Open Science
-We host datasets, benchmarks, and software prototypes associated with our publications on GitHub.
+</div>
 
-* [Browse all repositories](https://github.com/iScOp-uniovi)
+<br>
 
 ---
 <small>Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
