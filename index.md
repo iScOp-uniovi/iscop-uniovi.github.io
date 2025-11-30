@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![iScOp Logo](logo.png){: style="max-width: 200px; display: block; margin-bottom: 20px;"}
-
 # iScOp: Intelligent Scheduling and Optimization Research Group
 ### University of Oviedo
 
