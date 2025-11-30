@@ -4,7 +4,7 @@ title: Technology Transfer
 permalink: /transfer/
 ---
 
-# 🏭 Technology Transfer (Business Contracts)
+# 🏭 Technology Transfer
 
 **KPI Servicios Informáticos** <br>
 Shift optimization and workforce planning solutions. (2021)
