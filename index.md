@@ -3,67 +3,67 @@ layout: default
 title: Home
 ---
 
-# iScOp: Grupo de Investigación en Optimización y Scheduling Inteligentes
-### Universidad de Oviedo
+# iScOp: Intelligent Scheduling and Optimization Research Group
+### University of Oviedo
 
-Bienvenido al sitio web y repositorio de datos del grupo **iScOp**. Nos dedicamos a la resolución de problemas complejos de optimización y planificación (*scheduling*) mediante técnicas de Inteligencia Artificial.
+Welcome to the website and data repository of the **iScOp** group. We focus on solving complex optimization and scheduling problems using Artificial Intelligence techniques.
 
-Nuestras líneas de investigación principales incluyen las **Metaheurísticas**, la **Programación con Restricciones**, y la planificación bajo incertidumbre aplicada a la Industria 4.0, la logística y la sostenibilidad.
+Our main research lines include **Metaheuristics**, **Constraint Programming**, and planning under uncertainty applied to Industry 4.0, logistics, and sustainability.
 
 ---
 
-## 🔬 Proyectos de Investigación
-*Listado de proyectos financiados activos y recientes que desarrollan nuestras líneas base.*
+## 🔬 Research Projects
+*List of active and recent funded projects developing our core research lines.*
 
-### Proyectos Nacionales y Europeos
+### National and European Projects
 
 * **DELHIS: Devising and Learning Heuristics for Industrial Scheduling**
     * *Ref:* PID2022-141746OB-I00
-    * *Periodo:* 2023 - 2025
-    * *Financiación:* Ministerio de Ciencia e Innovación (Retos).
-    * *Objetivo:* Diseño y aprendizaje automático de heurísticas para entornos industriales complejos.
+    * *Period:* 2023 - 2025
+    * *Funding:* Ministry of Science and Innovation (Challenges).
+    * *Objective:* Design and machine learning of heuristics for complex industrial environments.
 
 * **Green Uncertain Scheduling with Intelligence**
     * *Ref:* TED2021-131938B-I00
-    * *Periodo:* 2022 - 2023
-    * *Financiación:* Ministerio de Ciencia e Innovación (Transición Ecológica y Digital).
-    * *Objetivo:* Optimización de tareas priorizando la eficiencia energética y la robustez ante imprevistos.
+    * *Period:* 2022 - 2023
+    * *Funding:* Ministry of Science and Innovation (Ecological and Digital Transition).
+    * *Objective:* Task optimization prioritizing energy efficiency and robustness against unforeseen events.
 
 * **Scheduling, Optimization, New Challenges, New Methods**
     * *Ref:* PID2019-106263RB-I00
-    * *Periodo:* 2020 - 2023
-    * *Financiación:* Ministerio de Ciencia e Innovación.
+    * *Period:* 2020 - 2023
+    * *Funding:* Ministry of Science and Innovation.
 
 * **AIDA: Artificial Intelligence & Data Analysis**
-    * *Ref:* ID/2018/000176 (Principado de Asturias / FEDER).
-    * *Periodo:* 2018 - 2020
+    * *Ref:* ID/2018/000176 (Principality of Asturias / FEDER).
+    * *Period:* 2018 - 2020
 
 ---
 
-## 🏭 Transferencia Tecnológica (Contratos)
-*Aplicación real de nuestros algoritmos en colaboración con empresas.*
+## 🏭 Technology Transfer (Business Contracts)
+*Real-world application of our algorithms in collaboration with industry partners.*
 
-| Empresa / Entidad | Proyecto Destacado | Año |
+| Partner / Company | Project Highlight | Year |
 | :--- | :--- | :--- |
-| **KPI Servicios Informáticos** | Optimización de turnos y planificación de personal. | 2021 |
-| **EMULSA (Gijón)** | Diseño y optimización de rutas de limpieza viaria y distritos. | 2015-2017 |
-| **Nuberu Games** | Motor de IA (NIPTDA) para comportamiento en videojuegos. | 2016 |
-| **INFORCYL** | Gestión inteligente de flotas de transporte público y tripulaciones. | 2014-2015 |
-| **ITCL** | Sistema inteligente para gestión de puntos de recarga de vehículo eléctrico. | 2013 |
+| **KPI Servicios Informáticos** | Shift optimization and workforce planning solutions. | 2021 |
+| **EMULSA (Gijón)** | Design and optimization of street cleaning routes and districting. | 2015-2017 |
+| **Nuberu Games** | AI Engine (NIPTDA) for video game behavior modeling. | 2016 |
+| **INFORCYL** | Intelligent fleet management for public transport and crew scheduling. | 2014-2015 |
+| **ITCL** | Intelligent management system for electric vehicle charging stations. | 2013 |
 
 ---
 
-## 👥 Equipo y Publicaciones
-Para consultar el listado actualizado de investigadores, tesis doctorales y la producción científica completa (papers), por favor visite nuestro perfil institucional oficial:
+## 👥 Team & Publications
+For the updated list of researchers, PhD theses, and full scientific production (papers), please visit our official institutional profile:
 
-👉 **[Portal de Investigación Universidad de Oviedo - Grupo iScOp](https://portalinvestigacion.uniovi.es/grupos/14092/detalle)**
+👉 **[University of Oviedo Research Portal - iScOp Group](https://portalinvestigacion.uniovi.es/grupos/14092/detalle)**
 
 ---
 
-## 📂 Recursos y Open Science
-En esta organización de GitHub alojamos los **datasets**, **benchmarks** y **prototipos de software** asociados a nuestras publicaciones para fomentar la reproducibilidad científica.
+## 📂 Resources & Open Science
+In this GitHub organization, we host the **datasets**, **benchmarks**, and **software prototypes** associated with our publications to foster scientific reproducibility.
 
-* [Ver todos los repositorios](https://github.com/iScOp-uniovi)
+* [Browse all repositories](https://github.com/iScOp-uniovi)
 
 ---
 <small>Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
