@@ -7,7 +7,7 @@ permalink: /projects/
 # 🔬 Research Projects
 
 **DELHIS: Devising and Learning Heuristics for Industrial Scheduling** <br>
-Funded by Ministry of Science and Innovation - Challenges (Ref. PID2022-141746OB-I00). (2023-2025)
+Funded by Ministry of Science and Innovation - Challenges (Ref. PID2022-141746OB-I00). (2023-2026)
 
 **AIDA: Artificial Intelligence & Data Analysis** <br>
 Funded by Principality of Asturias (FEDER) (Ref. GRU-GIC-24-018). (2024-2026)
