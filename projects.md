@@ -40,7 +40,7 @@ Funded by Ministry of Science and Technology (Ref. TIN2007-67466-C02-01). (2007-
 Funded by Ministry of Science and Technology (Ref. TIC2003-04153). (2003-2006)
 
 **National Thematic Network: Planning, Scheduling and Temporal Reasoning** <br>
-Funded by Ministry of Science and Technology (Ref. TIN2004-20168-E / TIC2001-4936-E). (2002-2006)
+Funded by Ministry of Science and Technology (Ref. TIN2004-20168-E / TIC2001-4936-E). (2002-2003 / 2005-2006)
 
 **Problem Solving with Constraints by Hybrid Techniques** <br>
 Funded by FICYT (Ref. FC-01-PB-TBI-04). (2001-2002)
