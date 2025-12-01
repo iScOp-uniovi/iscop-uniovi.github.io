@@ -27,7 +27,7 @@ Funded by Principality of Asturias (FEDER) (Ref. ID/2018/000176). (2018-2020)
 **Scheduling with multiobjective metaheuristics applied to real-life transportation problems** <br>
 Funded by Ministry of Economy and Competitivity - Challenges (Ref. TIN2016-79190-R). (2016-2020)
 
-**Intelligent Techniques for Obtaining Robust and Energy-aware Solutions in Scheduling: Application to Transport** <br>
+**Intelligent Techniques for Obtaining Robust and Energy-aware Solutions in Scheduling: Application to Transport::UNIOVI** <br>
 Funded by Ministry of Science and Technology (Ref. TIN2013-46511-C2-2-P). (2014-2016)
 
 **MHERLIN: MetaHEuristics for Stability and Robustness in ScheduLing under INcertainty** <br>
@@ -46,13 +46,19 @@ Funded by Ministry of Science and Technology (Ref. TIN2004-20168-E / TIC2001-493
 Funded by FICYT (Ref. FC-01-PB-TBI-04). (2001-2002)
 
 **Problem Solving with Parallel Techniques, Heuristics and Genetic Algorithms** <br>
-Funded by D.G.E.S. (Ref. DGE-99-PB98-1541) and University of Oviedo. (1999-2000)
+Funded by D.G.E.S. (Ref. DGE-99-PB98-1541). (2000)
+
+**Problem Solving with Parallel Techniques, Heuristics and Genetic Algorithms** <br>
+Funded by University of Oviedo. (Ref: NP-99-534-14). (1999)
 
 **Development and Evaluation of a model's interpretation in Parallel Logic Programs** <br>
 Funded by FICYT (Ref. FC-97-PBP-TIC97-03). (1997-1998)
 
 **The Model RFD / RPS: A New Approach to Parallel Interpretation of Logic Programs** <br>
-Funded by University of Oviedo (Ref. NP-97-19 / DF-96-513-10). (1996-1997)
+Funded by University of Oviedo (Ref. NP-97-19). (1997)
+
+**Model Generalization and Applications RFD / RPS Parallel Interpretation of Logic Programs** <br> 
+Funded by the University of Oviedo (Ref: DF-96-513-10). (1996). 
 
 **Simulation and Evaluation Model RFD / RPS Parallel Interpretation of Logic Programs** <br>
 Funded by University of Oviedo. (1995)
