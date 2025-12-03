@@ -7,7 +7,7 @@ permalink: /transfer/
 # 🏭 Technology Transfer
 
 **Technological Consulting to Address a Palletization Problem** <br>
-Participating Entities: SAMOA Industrial, S.A., and Asturias Digital Innovation Hub (AsDIH), 2025
+Participating Entities: SAMOA Industrial, S.A., and University of Oviedo (Group iScOp), funded by Asturias Digital Innovation Hub (AsDIH), 2025
 
 **Optimization of Cashier Shifts** <br>
 Participating Entities: KPI Servicios Informáticos S.L. and University of Oviedo (Group iScOp), 2021.
