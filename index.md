@@ -7,11 +7,6 @@ layout: default
   <a href="https://www.uniovi.es" target="_blank" title="Universidad de Oviedo Website">
     <img src="Emblema Universidad de Oviedo Vertical Color.png" alt="Universidad de Oviedo" style="height: 120px; width: auto;">
   </a>
-
-  <a href="https://www.aic.uniovi.es/" target="_blank" title="Artificial Intelligence Center Website">
-    <img src="aic_logo.png" alt="Artificial Intelligence Center" style="height: 72px; width: auto;">
-  </a>
-
 </div>
 
 The main focus of this research group is developing software solutions to complex problems such as business scheduling and resource optimization. Problems of this nature appear in profusion in all productive sectors and its solution usually requires a high degree of expertise and specific knowledge.
