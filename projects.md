@@ -13,7 +13,10 @@ Funded by Ministry of Science and Innovation - Challenges (Ref. PID2022-141746OB
 Funded by Principality of Asturias (FEDER) (Ref. GRU-GIC-24-018). (2024-2026)
 
 **Green Uncertain Scheduling with Intelligence** <br>
-Funded by Ministry of Science and Innovation - Ecological and Digital Transition (Ref. TED2021-131938B-I00). (2022-2023)
+Funded by Ministry of Science and Innovation - Ecological and Digital Transition (Ref. UE-22-ASDIH-101083729). (2022-2023)
+
+**Asturias Digital Innovation Hub – AsDIH** <br>
+Funded by C.E.E.-COMUNIDAD ECONOMICA EUR (Ref. TED2021-131938B-I00). (2022-2025)
 
 **Grant for the maintenance of research activities (PAPI)** <br>
 Funded by University of Oviedo (Ref. 2021- GR2012-0012). (2021)
