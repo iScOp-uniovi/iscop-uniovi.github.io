@@ -5,7 +5,7 @@ layout: default
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-bottom: 30px; flex-wrap: wrap;">
   
   <a href="https://www.uniovi.es" target="_blank" title="Universidad de Oviedo Website">
-    <img src="Emblema Universidad de Oviedo Vertical Color.png" alt="Universidad de Oviedo" style="height: 120px; width: auto;">
+    <img src="logo_uniovi.svg" alt="Universidad de Oviedo" style="height: 120px; width: auto;">
   </a>
 </div>
 
