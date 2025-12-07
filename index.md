@@ -21,7 +21,7 @@ This is precisely the value we intend to incorporate into our applications throu
     👥 Members
   </a>
 
-  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/publicaciones?lang=en" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
+  <a href="https://portalinvestigacion.uniovi.es/grupos/14092/publicaciones?scope=investigadores&lang=en" class="btn" style="width: 45%; min-width: 250px; text-align: center;">
     📚 Publications
   </a>
 
