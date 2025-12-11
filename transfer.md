@@ -9,7 +9,7 @@ permalink: /transfer/
 **Technological Consulting to Address a Palletization Problem** <br>
 Participating Entities: SAMOA Industrial, S.A., and University of Oviedo (Group iScOp), funded by Asturias Digital Innovation Hub (AsDIH), 2025
 
-**Performed research and development for adapting existing hyper-heuristic approaches for the project under the identifier**
+**Performed research and development for adapting existing hyper-heuristic approaches for the project under the identifier** <br>
 Participating Entities: University of Zagreb and University of Oviedo (Group iScOp), funded by University of Zagreb, 2024.
 
 **Optimization of Cashier Shifts** <br>
