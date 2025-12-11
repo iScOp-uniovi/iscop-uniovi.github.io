@@ -9,6 +9,9 @@ permalink: /projects/
 **DELHIS: Devising and Learning Heuristics for Industrial Scheduling** <br>
 Funded by Ministry of Science and Innovation - Challenges (Ref. PID2022-141746OB-I00). (2023-2026)
 
+**Research on the development and application of methods for building ensembles of hyperheuristic methods** <br>
+Funded by University of Zagreb Fac. Electrical Engineering and Computing (Ref. INT-UE-PUB-CNT-2025-ZAGREB UNIVERSITY). (2025)
+
 **AIDA: Artificial Intelligence & Data Analysis** <br>
 Funded by Principality of Asturias (FEDER) (Ref. GRU-GIC-24-018). (2024-2026)
 
