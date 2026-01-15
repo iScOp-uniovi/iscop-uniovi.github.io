@@ -7,26 +7,31 @@ permalink: /projects/
 # 🔬 Research Projects
 
 **DELHIS: Devising and Learning Heuristics for Industrial Scheduling** <br>
-Funded by Ministry of Science and Innovation - Challenges (Ref. PID2022-141746OB-I00). (2023-2026)
+Funded by Ministry of Science and Innovation - Challenges (Ref. MCINN-23-PID2022-141746OB-I00). (2023-2026)
 
 **Research on the development and application of methods for building ensembles of hyperheuristic methods &** <br>
 **Research on incorporating local searches into the hyperheuristic method** <br>
 Funded by University of Zagreb Fac. Electrical Engineering and Computing (Ref. INT-UE-PUB-CNT-2025-ZAGREB UNIVERSITY). (2025-2026)
 
 **AIDA: Artificial Intelligence & Data Analysis** <br>
-Funded by Principality of Asturias (FEDER) (Ref. GRU-GIC-24-018). (2024-2026)
+Funded by Principality of Asturias (FEDER) (Ref. SEK-25-GRU-GIC-24-018). (2024-2026)
+
+**Asturias Digital Innovation Hub – AsDIH** <br>
+Funded by the European Economic Community and promoted by the Government of the Principality of Asturias. (Ref. TED2021-131938B-I00 / UE-22-ASDIH-101083729). (2022-2025)
+
+**Financial Aid for Mobility of Excellence for Teachers and Researchers at the University of Oviedo** <br>
+Funded by  by University of Oviedo (Ref. PAPI-MOVILIDAD-A-24-09). (2023-2024)
 
 **Green Uncertain Scheduling with Intelligence** <br>
 Funded by Ministry of Science and Innovation - Ecological and Digital Transition (Ref. UE-22-ASDIH-101083729). (2022-2023)
 
-**Asturias Digital Innovation Hub – AsDIH** <br>
-Funded by the EU and promoted by the Government of the Principality of Asturias. (Ref. TED2021-131938B-I00). (2022-2025)
-
-**Grant for the maintenance of research activities (PAPI)** <br>
-Funded by University of Oviedo (Ref. 2021- GR2012-0012). (2021)
 
 **Scheduling, Optimization, New Challenges, New Methods** <br>
-Funded by Ministry of Science and Innovation - Challenges (Ref. PID2019-106263RB-I00). (2020-2023)
+Funded by Ministry of Science and Innovation - Challenges (Ref. MCI-20-PID2019-106263RB-I00). (2020-2023)
+
+**Grant for the maintenance of research activities (PAPI)** <br>
+Funded by University of Oviedo (Ref. PAPI-21-GR2012-0012). (2021)
+
 
 **AIDA: Artificial Intelligence & Data Analysis** <br>
 Funded by Principality of Asturias (FEDER) (Ref. ID/2018/000176). (2018-2020)
