@@ -23,7 +23,7 @@ Funded by the European Economic Community and promoted by the Government of the 
 Funded by  by University of Oviedo (Ref. PAPI-MOVILIDAD-A-24-09). (2023-2024)
 
 **Green Uncertain Scheduling with Intelligence** <br>
-Funded by Ministry of Science and Innovation - Ecological and Digital Transition (Ref. UE-22-ASDIH-101083729). (2022-2023)
+Funded by Ministry of Science and Innovation - Ecological and Digital Transition (Ref. UE-22-ASDIH-101083729). (2022-2025)
 
 
 **Scheduling, Optimization, New Challenges, New Methods** <br>
