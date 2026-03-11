@@ -13,7 +13,7 @@ Funded by Ministry of Science and Innovation - Challenges (Ref. MCINN-23-PID2022
 **Research on incorporating local searches into the hyperheuristic method** <br>
 Funded by University of Zagreb Fac. Electrical Engineering and Computing (Ref. INT-UE-PUB-CNT-2025-ZAGREB UNIVERSITY). (2025-2026)
 
-**AIDA: Artificial Intelligence & Data Analysis** <br>
+**AIDA: Artificial Intelligence & Data Analysis (IDE/2024/000696)** <br>
 Funded by Principality of Asturias (FEDER) (Ref. SEK-25-GRU-GIC-24-018). (2024-2026)
 
 **Asturias Digital Innovation Hub – AsDIH** <br>
