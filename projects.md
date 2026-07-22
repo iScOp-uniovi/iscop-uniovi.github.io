@@ -9,6 +9,9 @@ permalink: /projects/
 **ETOOLS: Effective and Transparent Optimization for Industrial Logistics and Scheduling** <br>
 Funded by Ministry of Science, Innovation and Universities - Challenges (Ref. PID2025-167940OB-I00). (2026-2028)
 
+**Asturias Digital Innovation Hub 2.0 – AsDIH 2.0** <br>
+Funded by the European Economic Community and promoted by the Government of the Principality of Asturias. (Ref. 101256911). (2026-2028)
+
 **DELHIS: Devising and Learning Heuristics for Industrial Scheduling** <br>
 Funded by Ministry of Science and Innovation - Challenges (Ref. MCINN-23-PID2022-141746OB-I00). (2023-2026)
 
